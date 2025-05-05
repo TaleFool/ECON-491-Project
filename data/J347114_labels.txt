@@ -1,0 +1,201 @@
+****** PSID DATA CENTER ************************* 
+****** Variable labels for JobID = 347114 ******* 
+
+Variable    Labels
+
+ER30000    RELEASE NUMBER                          
+ER30001    1968 INTERVIEW NUMBER                   
+ER30002    PERSON NUMBER                         68
+ER32000    SEX OF INDIVIDUAL                       
+ER32006    WHETHER SAMPLE OR NONSAMPLE             
+ER32010    PERSON # OF MOTHER                      
+ER32011    YEAR MOTHER BORN                        
+ER32017    PERSON # OF FATHER                      
+ER32018    YEAR FATHER BORN                        
+V8201      RELEASE NUMBER                          
+V8348      1981 ID                                 
+ER30373    1982 INTERVIEW NUMBER                   
+ER30374    SEQUENCE NUMBER                       82
+ER30375    RELATIONSHIP TO HEAD                  82
+V8801      RELEASE NUMBER                          
+V8802      1983 INTERVIEW NUMBER                   
+V8956      1981 ID                                 
+V8957      1982 ID                                 
+V9375      TOT FAM MONEY Y 82                      
+ER30399    1983 INTERVIEW NUMBER                   
+ER30400    SEQUENCE NUMBER                       83
+ER30401    RELATIONSHIP TO HEAD                  83
+V10001     RELEASE NUMBER                          
+V10002     1984 INTERVIEW NUMBER                   
+V10384     OFUM 1983 ASSET Y                       
+V10413     1981 ID                                 
+V10414     1982 ID                                 
+V10415     1983 ID                                 
+V10988     M19 PARENTS POOR OR?-HD                 
+V11022     TOT FAM MONEY Y 83                      
+ER30429    1984 INTERVIEW NUMBER                   
+ER30430    SEQUENCE NUMBER                       84
+ER30431    RELATIONSHIP TO HEAD                  84
+ER30432    AGE OF INDIVIDUAL                     84
+ER30443    COMPLETED EDUC                        84
+ER30445    TOT TXBL INCOME                       84
+V11101     RELEASE NUMBER                          
+V11102     1985 INTERVIEW NUMBER                   
+V11563     OFUM 84 ASSET Y                         
+V11594     1981 ID                                 
+V11595     1982 ID                                 
+V11596     1983 ID                                 
+V11597     1984 ID                                 
+V11921     G13 PARENTS POOR OR?-HD                 
+V11956     G43 WTR ATTEND COLLEGE                  
+V12311     N43 WTR ATTEND COLLEGE                  
+V12371     TOT FAM MONEY Y 84                      
+ER30463    1985 INTERVIEW NUMBER                   
+ER30464    SEQUENCE NUMBER                       85
+ER30465    RELATIONSHIP TO HEAD                  85
+ER30466    AGE OF INDIVIDUAL                     85
+ER30478    COMPLETED EDUCATION                   85
+ER30480    TOT TXBL INCOME                       85
+V12501     RELEASE NUMBER                          
+V12502     1986 INTERVIEW NUMBER                   
+V12970     OFUM 85 ASSET Y                         
+V13001     1981 ID                                 
+V13002     1982 ID                                 
+V13003     1983 ID                                 
+V13004     1984 ID                                 
+V13005     1985 ID                                 
+V13510     K28 WTR ATTEND COLLEGE W                
+V13548     L13 PARENTS POOR OR?  HD                
+V13579     L41 WTR ATTEND COLLEGE H                
+V13623     TOT FAM MONEY Y 85                      
+ER30498    1986 INTERVIEW NUMBER                   
+ER30499    SEQUENCE NUMBER                       86
+ER30500    RELATIONSHIP TO HEAD                  86
+ER30501    AGE OF INDIVIDUAL                     86
+ER30513    COMPLETED EDUCATION                   86
+ER30515    TOT TXBL INCOME                       86
+V13701     RELEASE NUMBER                          
+V13702     1987 INTERVIEW NUMBER                   
+V14072     OFUM 86 ASSET Y                         
+V14103     1981 ID                                 
+V14104     1982 ID                                 
+V14105     1983 ID                                 
+V14106     1984 ID                                 
+V14107     1985 ID                                 
+V14108     1986 ID                                 
+V14557     K28 WTR ATTEND COLLEGE W                
+V14595     L13 PARENTS POOR OR?  HD                
+V14626     L41 WTR ATTEND COLLEGE H                
+V14670     TOT FAM MONEY Y 86                      
+ER30535    1987 INTERVIEW NUMBER                   
+ER30536    SEQUENCE NUMBER                       87
+ER30537    RELATIONSHIP TO HEAD                  87
+ER30538    AGE OF INDIVIDUAL                     87
+ER30549    COMPLETED EDUCATION                   87
+ER30551    TOT TXBL INCOME                       87
+V14801     RELEASE NUMBER                          
+V14802     1988 INTERVIEW NUMBER                   
+V15087     OFUM 87 ASSET Y                         
+V15118     1981 ID                                 
+V15119     1982 ID                                 
+V15120     1983 ID                                 
+V15121     1984 ID                                 
+V15122     1985 ID                                 
+V15123     1986 ID                                 
+V15773     G103 ASSET IF SELL POSS                 
+V16031     K28 WTR ATTEND COLLEGE W                
+V16069     L13 PARENTS POOR OR?  HD                
+V16100     L41 WTR ATTEND COLLEGE H                
+V16144     TOT FAM MONEY Y 87                      
+ER30570    1988 INTERVIEW NUMBER                   
+ER30571    SEQUENCE NUMBER                       88
+ER30572    RELATION TO HEAD                      88
+ER30573    AGE OF INDIVIDUAL                     88
+ER30584    COMPLETED EDUC-IND                    88
+ER30586    TOT TXBL INCOME-IND                   88
+V16301     RELEASE NUMBER                          
+V16302     1989 INTERVIEW NUMBER                   
+V16587     OFUM 88 ASSET Y                         
+V16618     1981 ID                                 
+V16619     1982 ID                                 
+V16620     1983 ID                                 
+V16621     1984 ID                                 
+V16622     1985 ID                                 
+V16623     1986 ID                                 
+V17428     K28 WTR ATTEND COLLEGE W                
+V17466     L13 PARENTS POOR OR?  HD                
+V17497     L41 WTR ATTEND COLLEGE H                
+V17533     TOT FAM MONEY Y 88                      
+V17610     ACTIVE SAVING 1984-89                   
+S217       IMP WEALTH W/ EQUITY (WEALTH2) 89       
+ER30606    1989 INTERVIEW NUMBER                   
+ER30607    SEQUENCE NUMBER                       89
+ER30608    RELATION TO HEAD                      89
+ER30609    AGE OF INDIVIDUAL                     89
+ER30620    COMPLETED EDUC-IND                    89
+ER30622    TOT TXBL INCOME-IND                   89
+V17701     RELEASE NUMBER                          
+V17702     1990 INTERVEW NUMBER                    
+V18003     OFUM 89 ASSET Y                         
+V18034     1981 ID                                 
+V18035     1982 ID                                 
+V18036     1983 ID                                 
+V18037     1984 ID                                 
+V18038     1985 ID                                 
+V18039     1986 ID                                 
+V18759     L28 WTR ATTEND COLLEGE W                
+V18797     M13 PARENTS POOR OR?  HD                
+V18828     M41 WTR ATTEND COLLEGE H                
+V18875     TOT FAM MONEY Y 89                      
+ER30642    1990 INTERVIEW NUMBER                   
+ER30643    SEQUENCE NUMBER                       90
+ER30644    RELATION TO HEAD                      90
+ER30645    AGE OF INDIVIDUAL                     90
+ER30657    COMPLETED EDUC-IND                    90
+ER30659    TOT TXBL INCOME-IND                   90
+V19001     RELEASE NUMBER                          
+V19002     1991 INTERVIEW NUMBER                   
+V19303     OFUM 90 ASSET Y                         
+V20059     K28 WTR ATTEND COLLEGE W                
+V20128     L41 WTR ATTEND COLLEGE H                
+V20175     TOT FAM MONEY Y 90                      
+ER30689    1991 INTERVIEW NUMBER                   
+ER30690    SEQUENCE NUMBER                       91
+ER30691    RELATION TO HEAD                      91
+ER30692    AGE OF INDIVIDUAL                     91
+ER30703    COMPLETED EDUC-IND                    91
+ER30705    TOT LABOR INCOME-IND                  91
+V20301     RELEASE NUMBER                          
+V20302     1992 INTERVIEW NUMBER                   
+ER30733    1992 INTERVIEW NUMBER                   
+ER30734    SEQUENCE NUMBER                       92
+ER30735    RELATION TO HEAD                      92
+ER30736    AGE OF INDIVIDUAL                     92
+ER30748    COMPLETED EDUCATION                   92
+ER30750    TOT LABOR INCOME                      92
+V21601     RELEASE NUMBER                          
+V21602     1993 INTERVIEW NUMBER                   
+ER30806    1993 INTERVIEW NUMBER                   
+ER30807    SEQUENCE NUMBER                       93
+ER30808    RELATION TO HEAD                      93
+ER30821    TOTAL LABOR INCOME                    93
+ER78001    RELEASE NUMBER                          
+ER78002    2021 FAMILY INTERVIEW (ID) NUMBER       
+ER78009    1968 FAMILY IDENTIFIER                  
+ER81039    K51 WTR ATTENDED COLLEGE-SP             
+ER81141    L37 PARENTS POOR OR?--RP                
+ER81166    L51 WTR ATTENDED COLLEGE-RP             
+ER81745    TOTAL ASSET INCOME OF OTR FU MEMBRS-2020
+ER81775    TOTAL FAMILY INCOME-2020                
+ER81838    IMP WEALTH W/ EQUITY (WEALTH2) 2021     
+ER34901    2021 INTERVIEW NUMBER                   
+ER34902    SEQUENCE NUMBER                       21
+ER34903    RELATION TO REFERENCE PERSON          21
+ER34904    AGE OF INDIVIDUAL                     21
+ER34930    WTR ATTENDED COLLEGE                  21
+ER34934    WTR RECEIVED COLLEGE DEGREE           21
+ER34952    YEARS COMPLETED EDUCATION             21
+ER35046    OFUM TOTAL LABOR INCOME- IMPUTED      21
+ER35049    OFUM TOTAL TAXABLE INCOME - IMPUTED   21
+
+*** End of labels ******************************* 
